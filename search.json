@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "Curriculum Vitae",
+    "section": "Employment",
+    "text": "Employment\nPostdoctoral Researcher (2025–present)\nÉcole Polytechnique Fédérale de Lausanne (EPFL), Switzerland\nHigh Performance Numerical Algorithms and Simulations Group\nProf. Laura Grigori"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDPhil in Mathematics (2021–2025)\nUniversity of Oxford, UK (Numerical Analysis Group)\nThesis: On the Accuracy and Robustness of Randomised Methods for Matrix Computations\nSupervisor: Prof. Yuji Nakatsukasa\nMSc in Mathematical Sciences (2020–2021)\nUniversity of Oxford, UK\nDistinction\nBSc (Hons.) in Mathematics (2019)\nUniversity of Cape Town, South Africa\nFirst Class\nBSc in Mathematics & Applied Mathematics (2016–2018)\nUniversity of Cape Town, South Africa\nDistinction"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "Awards",
+    "text": "Awards\n2026 — DPhil Thesis Prize, Mathematical Institute, University of Oxford\n2025 — G-Research PhD Prize, First Prize\n2021–2025 — Heilbronn Doctoral Partnership\n2019 — Roderick Noble Scholarship, University of Cape Town\n2016–2018 — Vice-Chancellor’s Scholarship, University of Cape Town\n2016 — Twamley December Scholarship, University of Cape Town\n2014 — International Mathematics Olympiad, Honourable Mention, South African Team"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\nReviewer for:\n\nSIAM Journal on Matrix Analysis and Applications\nSIAM Journal on Scientific Computing\nLinear Algebra and its Applications\nNumerical Linear Algebra with Applications\nJournal of Scientific Computing"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\n\nNumerical Stability of the Nyström Method\nA. Bucci, Y. Nakatsukasa, and T. Park.\nPreprint.\narXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa, and P.-G. Martinsson.\nPreprint.\narXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Scientific Computing, 47(3), A1858–A1887.\nDOI · arXiv\nAccuracy and Stability of CUR Decompositions with Oversampling\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Matrix Analysis and Applications, 46(1), 780–810.\nDOI · arXiv"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\n\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nY. Nakatsukasa and T. Park.\nSIAM Journal on Matrix Analysis and Applications, 44(3), 1370–1392.\nDOI · arXiv\nA Fast Randomized Algorithm for Computing an Approximate Null Space\nT. Park and Y. Nakatsukasa.\nBIT Numerical Mathematics, 63, 36.\nDOI · arXiv"
+  },
+  {
+    "objectID": "publications.html#phd-dissertation",
+    "href": "publications.html#phd-dissertation",
+    "title": "Publications",
+    "section": "PhD Dissertation",
+    "text": "PhD Dissertation\n\n\nOn the Accuracy and Robustness of Randomised Methods for Matrix Computations\nT. Park.\nDPhil thesis, University of Oxford, 2025.\nOxford Research Archive"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Randomized Techniques for Numerical Linear Algebra\nInvited Talk, Chonnam National University, South Korea, July 2026"
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "Randomized Techniques for Numerical Linear Algebra\nInvited Talk, Chonnam National University, South Korea, July 2026"
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "2025",
+    "text": "2025\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nBiennial Numerical Analysis Conference, University of Strathclyde, UK, June 2025\nAdaCUR: Efficient Low-rank Approximation of Parameter-dependent Matrices A(t) via CUR Decomposition\nHouseholder Symposium XXII, Ithaca, NY, USA, June 2025\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nNumerical Analysis Seminar, University of Oxford, UK, May 2025"
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Talks",
+    "section": "2024",
+    "text": "2024\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nImperial–UCL Numerics Seminar, University College London, UK, September 2024\nA Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nNumPI Seminar, University of Pisa, Italy, June 2024\nAccuracy and Stability of Randomized Low-rank Approximations\nPYSANUM Seminar, University of Pisa, Italy, June 2024\nRandomized Nyström Method for Symmetric Indefinite Matrices\nSIAM LA24, Paris, France, May 2024\nSIAM Student Travel Award"
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Talks",
+    "section": "2023",
+    "text": "2023\nRandomized Nyström Approximation for Symmetric Indefinite Matrices\nICIAM 2023, Tokyo, Japan, August 2023\nApproximating Functions of Sparse Matrices using Matrix-vector Products\nNumerical Analysis Seminar, University of Oxford, UK, June 2023\nA Fast Randomized Algorithm for Computing the Null Space\nSIAM CSE23, Amsterdam, Netherlands, February 2023"
+  },
+  {
+    "objectID": "talks.html#section-4",
+    "href": "talks.html#section-4",
+    "title": "Talks",
+    "section": "2022",
+    "text": "2022\nFast Randomized Null Space Algorithm\nNumerical Analysis Seminar, University of Oxford, UK, February 2022"
+  },
+  {
+    "objectID": "talks.html#selected-academic-activities",
+    "href": "talks.html#selected-academic-activities",
+    "title": "Talks",
+    "section": "Selected Academic Activities",
+    "text": "Selected Academic Activities\n\n10th Heidelberg Laureate Forum, Heidelberg, Germany, September 2023\nGene Golub SIAM Summer School, Lehigh University, USA, August 2023\nTopic: Quantum Computing and Optimization"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Advanced Linear Algebra I (Fall 2025)"
+  },
+  {
+    "objectID": "teaching.html#epfl",
+    "href": "teaching.html#epfl",
+    "title": "Teaching",
+    "section": "",
+    "text": "Advanced Linear Algebra I (Fall 2025)"
+  },
+  {
+    "objectID": "teaching.html#university-of-oxford",
+    "href": "teaching.html#university-of-oxford",
+    "title": "Teaching",
+    "section": "University of Oxford",
+    "text": "University of Oxford\n\nStipendiary Lecturer, Balliol College — 2025\n\nNumerical Analysis\nComputational Mathematics\nStatistics and Data Analysis\n\n\n\nTutor — 2022–2025\n\nOptimisation for Data Science (2025)\nNumerical Linear Algebra (2022, 2024)\nApproximation of Functions (2022)\n\n\n\nTeaching Assistant — 2021–2023\n\nContinuous Optimization (2023)\nRandom Matrix Theory (2022)\nInformation Theory (2022)\nNumerical Linear Algebra (2021)"
+  },
+  {
+    "objectID": "teaching.html#university-of-cape-town",
+    "href": "teaching.html#university-of-cape-town",
+    "title": "Teaching",
+    "section": "University of Cape Town",
+    "text": "University of Cape Town\n\nTutor — 2017–2019\n\nCalculus (2017–2019)\nReal Analysis (2019)"
+  },
+  {
+    "objectID": "teaching.html#student-supervision",
+    "href": "teaching.html#student-supervision",
+    "title": "Teaching",
+    "section": "Student Supervision",
+    "text": "Student Supervision\n\nYuekai Yan, Semester Project, EPFL, Fall 2025\nImproving stability and performance of s-step Krylov subspace methods with randomization\nCo-supervised with Laura Grigori and Igor Simunec."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taejun Park",
+    "section": "",
+    "text": "Postdoctoral Researcher\nÉcole Polytechnique Fédérale de Lausanne (EPFL)\n\n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\nI am a postdoctoral researcher in the High Performance Numerical Algorithms and Simulations (HPNALGS) group at EPFL, working with Prof. Laura Grigori.\nI received my DPhil in Mathematics from the University of Oxford in 2025, where I was a member of the Numerical Analysis group and was supervised by Prof. Yuji Nakatsukasa.\n\n\n\nMy research is in numerical linear algebra, with particular interests in\n\nrandomized algorithms for matrix computations,\nmatrix perturbation theory,\nlow-rank approximation.\n\nMy work focuses on developing fast, accurate, and reliable algorithms for large-scale matrix computations.\n\n\n\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · Preprint, 2025 · arXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nwith Y. Nakatsukasa · SISC, 2025 · DOI · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Taejun Park",
+    "section": "",
+    "text": "I am a postdoctoral researcher in the High Performance Numerical Algorithms and Simulations (HPNALGS) group at EPFL, working with Prof. Laura Grigori.\nI received my DPhil in Mathematics from the University of Oxford in 2025, where I was a member of the Numerical Analysis group and was supervised by Prof. Yuji Nakatsukasa."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Taejun Park",
+    "section": "",
+    "text": "My research is in numerical linear algebra, with particular interests in\n\nrandomized algorithms for matrix computations,\nmatrix perturbation theory,\nlow-rank approximation.\n\nMy work focuses on developing fast, accurate, and reliable algorithms for large-scale matrix computations."
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Taejun Park",
+    "section": "",
+    "text": "Approximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · Preprint, 2025 · arXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nwith Y. Nakatsukasa · SISC, 2025 · DOI · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
