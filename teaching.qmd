@@ -1,0 +1,46 @@
+---
+title: "Teaching"
+---
+
+## EPFL
+
+### Teaching Assistant
+
+- Advanced Linear Algebra I (Fall 2025)  
+
+
+## University of Oxford
+
+### Stipendiary Lecturer, Balliol College — 2025
+
+- Numerical Analysis
+- Computational Mathematics
+- Statistics and Data Analysis
+
+### Tutor — 2022–2025
+
+- Optimisation for Data Science (2025)
+- Numerical Linear Algebra (2022, 2024)
+- Approximation of Functions (2022)
+
+### Teaching Assistant — 2021–2023
+
+- Continuous Optimization (2023)
+- Random Matrix Theory (2022)
+- Information Theory (2022)
+- Numerical Linear Algebra (2021)
+
+
+## University of Cape Town
+
+### Tutor — 2017–2019
+
+- Calculus (2017–2019)
+- Real Analysis (2019)
+
+
+## Student Supervision
+
+- **Yuekai Yan**, Semester Project, EPFL, Fall 2025  
+  *Improving stability and performance of s-step Krylov subspace methods with randomization*  
+  Co-supervised with Laura Grigori and Igor Simunec.

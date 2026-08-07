@@ -1,0 +1,61 @@
+---
+title: "Talks"
+---
+
+## 2026
+
+**Randomized Techniques for Numerical Linear Algebra**  
+Invited Talk, Chonnam National University, South Korea, July 2026
+
+
+## 2025
+
+**Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
+Biennial Numerical Analysis Conference, University of Strathclyde, UK, June 2025
+
+**AdaCUR: Efficient Low-rank Approximation of Parameter-dependent Matrices A(t) via CUR Decomposition**  
+Householder Symposium XXII, Ithaca, NY, USA, June 2025
+
+**Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
+Numerical Analysis Seminar, University of Oxford, UK, May 2025
+
+
+## 2024
+
+**Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
+Imperial–UCL Numerics Seminar, University College London, UK, September 2024
+
+**A Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
+NumPI Seminar, University of Pisa, Italy, June 2024
+
+**Accuracy and Stability of Randomized Low-rank Approximations**  
+PYSANUM Seminar, University of Pisa, Italy, June 2024
+
+**Randomized Nyström Method for Symmetric Indefinite Matrices**  
+SIAM LA24, Paris, France, May 2024  
+*SIAM Student Travel Award*
+
+
+## 2023
+
+**Randomized Nyström Approximation for Symmetric Indefinite Matrices**  
+ICIAM 2023, Tokyo, Japan, August 2023
+
+**Approximating Functions of Sparse Matrices using Matrix-vector Products**  
+Numerical Analysis Seminar, University of Oxford, UK, June 2023
+
+**A Fast Randomized Algorithm for Computing the Null Space**  
+SIAM CSE23, Amsterdam, Netherlands, February 2023
+
+
+## 2022
+
+**Fast Randomized Null Space Algorithm**  
+Numerical Analysis Seminar, University of Oxford, UK, February 2022
+
+
+## Selected Academic Activities
+
+- **10th Heidelberg Laureate Forum**, Heidelberg, Germany, September 2023
+- **Gene Golub SIAM Summer School**, Lehigh University, USA, August 2023  
+  Topic: Quantum Computing and Optimization

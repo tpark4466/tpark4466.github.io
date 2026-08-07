@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Taejun Park"
+
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <link rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">

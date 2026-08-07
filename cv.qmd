@@ -1,0 +1,60 @@
+---
+title: "Curriculum Vitae"
+---
+
+[**Download CV (PDF)**](files/CV.pdf)
+
+## Employment
+
+**Postdoctoral Researcher (2025–present)**  
+École Polytechnique Fédérale de Lausanne (EPFL), Switzerland  
+High Performance Numerical Algorithms and Simulations Group  
+Prof. Laura Grigori
+
+
+## Education
+
+**DPhil in Mathematics (2021–2025)**  
+University of Oxford, UK (Numerical Analysis Group)  
+**Thesis:** [On the Accuracy and Robustness of Randomised Methods for Matrix Computations](https://ora.ox.ac.uk/objects/uuid:2e46d8e9-a64c-4a16-9843-28901ed525ac)  
+**Supervisor:** Prof. Yuji Nakatsukasa
+
+**MSc in Mathematical Sciences (2020–2021)**  
+University of Oxford, UK  
+Distinction
+
+**BSc (Hons.) in Mathematics (2019)**  
+University of Cape Town, South Africa  
+First Class
+
+**BSc in Mathematics & Applied Mathematics (2016–2018)**  
+University of Cape Town, South Africa  
+Distinction
+
+
+## Awards
+
+**2026** — DPhil Thesis Prize, Mathematical Institute, University of Oxford
+
+**2025** — G-Research PhD Prize, First Prize
+
+**2021–2025** — Heilbronn Doctoral Partnership
+
+**2019** — Roderick Noble Scholarship, University of Cape Town
+
+**2016–2018** — Vice-Chancellor's Scholarship, University of Cape Town
+
+**2016** — Twamley December Scholarship, University of Cape Town
+
+**2014** — International Mathematics Olympiad, Honourable Mention, South African Team
+
+
+## Service
+
+Reviewer for:
+
+- SIAM Journal on Matrix Analysis and Applications
+- SIAM Journal on Scientific Computing
+- Linear Algebra and its Applications
+- Numerical Linear Algebra with Applications
+- Journal of Scientific Computing

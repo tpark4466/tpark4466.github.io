@@ -1,0 +1,75 @@
+---
+title: "Publications"
+---
+
+## 2026
+
+::: {.publications-list}
+
+- **Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices**  
+  E. N. Epperly, **T. Park**, and Y. Nakatsukasa.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2602.16797)
+
+- **Approximating Sparse Matrices and their Functions using Matrix-vector Products**  
+  **T. Park** and Y. Nakatsukasa.  
+  *Applied and Computational Harmonic Analysis*, 83, 101869.  
+  [DOI](https://doi.org/10.1016/j.acha.2026.101869) · [arXiv](https://arxiv.org/abs/2310.05625)
+
+:::
+
+
+## 2025
+
+::: {.publications-list}
+
+- **Numerical Stability of the Nyström Method**  
+  A. Bucci, Y. Nakatsukasa, and **T. Park**.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2511.15583)
+
+- **Fast Rank Adaptive CUR via a Recycled Small Sketch**  
+  N. Pritchard, **T. Park**, Y. Nakatsukasa, and P.-G. Martinsson.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2509.21963)
+
+- **Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
+  **T. Park** and Y. Nakatsukasa.  
+  *SIAM Journal on Scientific Computing*, 47(3), A1858–A1887.  
+  [DOI](https://doi.org/10.1137/24M1683998) · [arXiv](https://arxiv.org/abs/2408.05595)
+
+- **Accuracy and Stability of CUR Decompositions with Oversampling**  
+  **T. Park** and Y. Nakatsukasa.  
+  *SIAM Journal on Matrix Analysis and Applications*, 46(1), 780–810.  
+  [DOI](https://doi.org/10.1137/24M1660346) · [arXiv](https://arxiv.org/abs/2405.06375)
+
+:::
+
+
+## 2023
+
+::: {.publications-list}
+
+- **Randomized Low-Rank Approximation for Symmetric Indefinite Matrices**  
+  Y. Nakatsukasa and **T. Park**.  
+  *SIAM Journal on Matrix Analysis and Applications*, 44(3), 1370–1392.  
+  [DOI](https://doi.org/10.1137/22M1538648) · [arXiv](https://arxiv.org/abs/2212.01127)
+
+- **A Fast Randomized Algorithm for Computing an Approximate Null Space**  
+  **T. Park** and Y. Nakatsukasa.  
+  *BIT Numerical Mathematics*, 63, 36.  
+  [DOI](https://doi.org/10.1007/s10543-023-00979-7) · [arXiv](https://arxiv.org/abs/2206.00975)
+
+:::
+
+
+## PhD Dissertation
+
+::: {.publications-list}
+
+- **On the Accuracy and Robustness of Randomised Methods for Matrix Computations**  
+  **T. Park**.  
+  *DPhil thesis, University of Oxford, 2025.*  
+  [Oxford Research Archive](https://ora.ox.ac.uk/objects/uuid:2e46d8e9-a64c-4a16-9843-28901ed525ac)
+
+:::
