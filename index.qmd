@@ -6,7 +6,7 @@ page-layout: full
 
 ::: {.profile-column}
 
-![](images/profile.jpg){.profile-photo}
+![](images/profile-2026.jpg){.profile-photo}
 
 # Taejun Park
 
