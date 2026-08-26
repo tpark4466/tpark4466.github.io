@@ -25,7 +25,7 @@
     "href": "cv.html#awards",
     "title": "Curriculum Vitae",
     "section": "Awards",
-    "text": "Awards\n2026 — DPhil Thesis Prize, Mathematical Institute, University of Oxford\n2025 — G-Research PhD Prize, First Prize\n2021–2025 — Heilbronn Doctoral Partnership\n2019 — Roderick Noble Scholarship, University of Cape Town\n2016–2018 — Vice-Chancellor’s Scholarship, University of Cape Town\n2016 — Twamley December Scholarship, University of Cape Town\n2014 — International Mathematics Olympiad, Honourable Mention, South African Team"
+    "text": "Awards\n2026 — DPhil Thesis Prize, Mathematical Institute, University of Oxford\n2025 — G-Research PhD Prize for Maths and Data Science, First Prize, University of Oxford\n2021–2025 — Heilbronn Doctoral Partnership\n2019 — Roderick Noble Scholarship, University of Cape Town\n2016–2018 — Vice-Chancellor’s Scholarship, University of Cape Town\n2016 — Twamley December Scholarship, University of Cape Town\n2014 — International Mathematics Olympiad, Honourable Mention, South African Team"
   },
   {
     "objectID": "cv.html#service",
@@ -39,14 +39,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section-1",
