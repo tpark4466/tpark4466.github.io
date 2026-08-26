@@ -6,6 +6,16 @@ title: "Publications"
 
 ::: {.publications-list}
 
+- **Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**  
+  M. Gubler, **T. Park**, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2608.24529)
+
+- **Nystrom method for symmetric indefinite matrices**  
+  Y. Chen, Y. Nakatsukasa, A. Narendran, and **T. Park**.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2608.20531)
+
 - **Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices**  
   E. N. Epperly, **T. Park**, and Y. Nakatsukasa.  
   *Preprint*.  
