@@ -6,6 +6,11 @@ title: "Publications"
 
 ::: {.publications-list}
 
+- **SuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA**  
+  I. Haas, M. Meier, Y. Nakatsukasa, **T. Park**.  
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2609.26406)
+
 - **Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**  
   M. Gubler, **T. Park**, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.  
   *Preprint*.  
