@@ -85,7 +85,7 @@ for large-scale matrix computations.
 
 ## Selected Papers
 
-- **Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**  
+**Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**  
 with M. Gubler, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori · Preprint, 2026 · [arXiv](https://arxiv.org/abs/2608.24529)
 
 **Approximating Sparse Matrices and their Functions using Matrix-vector Products**  
