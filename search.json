@@ -39,21 +39,21 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "SuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa, T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa, and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa, T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "SuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa, T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa, and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa, T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran, and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park, and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2025",
-    "text": "2025\n\n\nNumerical Stability of the Nyström Method\nA. Bucci, Y. Nakatsukasa, and T. Park.\nPreprint.\narXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa, and P.-G. Martinsson.\nPreprint.\narXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Scientific Computing, 47(3), A1858–A1887.\nDOI · arXiv\nAccuracy and Stability of CUR Decompositions with Oversampling\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Matrix Analysis and Applications, 46(1), 780–810.\nDOI · arXiv"
+    "text": "2025\n\n\nNumerical Stability of the Nyström Method\nA. Bucci, Y. Nakatsukasa, and T. Park.\nPreprint.\narXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Scientific Computing, 47(3), A1858–A1887.\nDOI · arXiv\nAccuracy and Stability of CUR Decompositions with Oversampling\nT. Park and Y. Nakatsukasa.\nSIAM Journal on Matrix Analysis and Applications, 46(1), 780–810.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section-2",
@@ -123,14 +123,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Advanced Linear Algebra I (Fall 2025)"
+    "text": "Advanced Linear Algebra I (Fall 2025)\nAnalysis I (Fall 2026)"
   },
   {
     "objectID": "teaching.html#epfl",
     "href": "teaching.html#epfl",
     "title": "Teaching",
     "section": "",
-    "text": "Advanced Linear Algebra I (Fall 2025)"
+    "text": "Advanced Linear Algebra I (Fall 2025)\nAnalysis I (Fall 2026)"
   },
   {
     "objectID": "teaching.html#university-of-oxford",
@@ -158,7 +158,7 @@
     "href": "index.html",
     "title": "Taejun Park",
     "section": "",
-    "text": "Postdoctoral Researcher\nÉcole Polytechnique Fédérale de Lausanne (EPFL)\n\n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\nI am a postdoctoral researcher in the High Performance Numerical Algorithms and Simulations (HPNALGS) group at EPFL, working with Prof. Laura Grigori.\nI received my DPhil in Mathematics from the University of Oxford in 2025, where I was a member of the Numerical Analysis group and was supervised by Prof. Yuji Nakatsukasa.\n\n\n\nMy research is in numerical linear algebra, with particular interests in\n\nrandomized algorithms for matrix computations,\nmatrix perturbation theory,\nlow-rank approximation.\n\nMy work focuses on developing fast, accurate, and reliable algorithms for large-scale matrix computations.\n\n\n\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · Preprint, 2025 · arXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nwith Y. Nakatsukasa · SISC, 2025 · DOI · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
+    "text": "Postdoctoral Researcher\nÉcole Polytechnique Fédérale de Lausanne (EPFL)\n\n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\nI am a postdoctoral researcher in the High Performance Numerical Algorithms and Simulations (HPNALGS) group at EPFL, working with Prof. Laura Grigori.\nI received my DPhil in Mathematics from the University of Oxford in 2025, where I was a member of the Numerical Analysis group and was supervised by Prof. Yuji Nakatsukasa.\n\n\n\nMy research is in numerical linear algebra, with particular interests in\n\nrandomized algorithms for matrix computations,\nmatrix perturbation theory,\nlow-rank approximation.\n\nMy work focuses on developing fast, accurate, and reliable algorithms for large-scale matrix computations.\n\n\n\n\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nwith M. Gubler, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori · Preprint, 2026 · arXiv\n\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nIterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · SISC (to appear), 2026 · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
   },
   {
     "objectID": "index.html#about",
@@ -179,7 +179,7 @@
     "href": "index.html#selected-papers",
     "title": "Taejun Park",
     "section": "",
-    "text": "Approximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nFast Rank Adaptive CUR via a Recycled Small Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · Preprint, 2025 · arXiv\nLow-rank Approximation of Parameter-dependent Matrices via CUR Decomposition\nwith Y. Nakatsukasa · SISC, 2025 · DOI · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
+    "text": "Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nwith M. Gubler, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori · Preprint, 2026 · arXiv\n\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nwith Y. Nakatsukasa · ACHA, 2026 · DOI · arXiv\nIterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nwith N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · SISC (to appear), 2026 · arXiv\nRandomized Low-Rank Approximation for Symmetric Indefinite Matrices\nwith Y. Nakatsukasa · SIMAX, 2023 · DOI · arXiv\nAll papers →"
   },
   {
     "objectID": "about.html",
