@@ -85,14 +85,14 @@ for large-scale matrix computations.
 
 ## Selected Papers
 
+- **Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**  
+with M. Gubler, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori · Preprint, 2026 · [arXiv](https://arxiv.org/abs/2608.24529)
+
 **Approximating Sparse Matrices and their Functions using Matrix-vector Products**  
 with Y. Nakatsukasa · *ACHA*, 2026 · [DOI](https://doi.org/10.1016/j.acha.2026.101869) · [arXiv](https://arxiv.org/abs/2310.05625)
 
-**Fast Rank Adaptive CUR via a Recycled Small Sketch**  
-with N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · Preprint, 2025 · [arXiv](https://arxiv.org/abs/2509.21963)
-
-**Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
-with Y. Nakatsukasa · *SISC*, 2025 · [DOI](https://doi.org/10.1137/24M1683998) · [arXiv](https://arxiv.org/abs/2408.05595)
+**IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch**  
+with N. Pritchard, Y. Nakatsukasa, and P.-G. Martinsson · SISC (to appear), 2026 · [arXiv](https://arxiv.org/abs/2509.21963)
 
 **Randomized Low-Rank Approximation for Symmetric Indefinite Matrices**  
 with Y. Nakatsukasa · *SIMAX*, 2023 · [DOI](https://doi.org/10.1137/22M1538648) · [arXiv](https://arxiv.org/abs/2212.01127)

@@ -6,7 +6,8 @@ title: "Teaching"
 
 ### Teaching Assistant
 
-- Advanced Linear Algebra I (Fall 2025)  
+- Advanced Linear Algebra I (Fall 2025) 
+- Analysis I (Fall 2026)
 
 
 ## University of Oxford

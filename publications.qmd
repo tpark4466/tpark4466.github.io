@@ -6,6 +6,11 @@ title: "Publications"
 
 ::: {.publications-list}
 
+- **IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch**  
+  N. Pritchard, **T. Park**, Y. Nakatsukasa, and P.-G. Martinsson.  
+  *SIAM Journal on Scientific Computing*, to appear.  
+  [arXiv](https://arxiv.org/abs/2509.21963)
+
 - **SuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA**  
   I. Haas, M. Meier, Y. Nakatsukasa, **T. Park**.  
   *Preprint*.  
@@ -42,11 +47,6 @@ title: "Publications"
   A. Bucci, Y. Nakatsukasa, and **T. Park**.  
   *Preprint*.  
   [arXiv](https://arxiv.org/abs/2511.15583)
-
-- **Fast Rank Adaptive CUR via a Recycled Small Sketch**  
-  N. Pritchard, **T. Park**, Y. Nakatsukasa, and P.-G. Martinsson.  
-  *Preprint*.  
-  [arXiv](https://arxiv.org/abs/2509.21963)
 
 - **Low-rank Approximation of Parameter-dependent Matrices via CUR Decomposition**  
   **T. Park** and Y. Nakatsukasa.  
