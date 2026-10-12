@@ -32,21 +32,21 @@
     "href": "cv.html#service",
     "title": "Curriculum Vitae",
     "section": "Service",
-    "text": "Service\nReviewer for:\n\nSIAM Journal on Matrix Analysis and Applications\nSIAM Journal on Scientific Computing\nLinear Algebra and its Applications\nNumerical Linear Algebra with Applications\nJournal of Scientific Computing"
+    "text": "Service\nReviewer for:\n\nSIAM Journal on Matrix Analysis and Applications\nSIAM Journal on Scientific Computing\nSIAM Journal on Imaging Sciences\nLinear Algebra and its Applications\nNumerical Linear Algebra with Applications\nJournal of Scientific Computing"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa and T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "Randomized Jacobi-Davidson method\nL. Grigori, T. Park and I. Simunec. Preprint.\narXiv\nIterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa and T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa and T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
+    "text": "Randomized Jacobi-Davidson method\nL. Grigori, T. Park and I. Simunec. Preprint.\narXiv\nIterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch\nN. Pritchard, T. Park, Y. Nakatsukasa and P.-G. Martinsson.\nSIAM Journal on Scientific Computing, to appear.\narXiv\nSuperPCA: subspace analysis and an efficient algorithm for high-dimensional PCA\nI. Haas, M. Meier, Y. Nakatsukasa and T. Park.\nPreprint.\narXiv\nRandomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory\nM. Gubler, T. Park, A. Bussy, J. Laute, N. Marzari, I. Timrov and L. Grigori.\nPreprint.\narXiv\nNystrom method for symmetric indefinite matrices\nY. Chen, Y. Nakatsukasa, A. Narendran and T. Park.\nPreprint.\narXiv\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices\nE. N. Epperly, T. Park and Y. Nakatsukasa.\nPreprint.\narXiv\nApproximating Sparse Matrices and their Functions using Matrix-vector Products\nT. Park and Y. Nakatsukasa.\nApplied and Computational Harmonic Analysis, 83, 101869.\nDOI · arXiv"
   },
   {
     "objectID": "publications.html#section-1",
@@ -67,7 +67,7 @@
     "href": "publications.html#phd-dissertation",
     "title": "Publications",
     "section": "PhD Dissertation",
-    "text": "PhD Dissertation\n\n\nOn the Accuracy and Robustness of Randomised Methods for Matrix Computations\nT. Park.\nDPhil thesis, University of Oxford, 2025.\nOxford Research Archive"
+    "text": "PhD Dissertation\n\n\nOn the Accuracy and Robustness of Randomised Methods for Matrix Computations DPhil thesis, University of Oxford, 2025.\nOxford Research Archive"
   },
   {
     "objectID": "talks.html",
