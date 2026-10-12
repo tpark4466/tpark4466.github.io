@@ -6,6 +6,11 @@ title: "Publications"
 
 ::: {.publications-list}
 
+- **Randomized Jacobi-Davidson method**  
+  L. Grigori, **T. Park** and I. Simunec.
+  *Preprint*.  
+  [arXiv](https://arxiv.org/abs/2609.29651)
+
 - **IterativeCUR: Large Rank-Adaptive Approximation From a Small Recycled Sketch**  
   N. Pritchard, **T. Park**, Y. Nakatsukasa and P.-G. Martinsson.  
   *SIAM Journal on Scientific Computing*, to appear.  
@@ -82,8 +87,7 @@ title: "Publications"
 
 ::: {.publications-list}
 
-- **On the Accuracy and Robustness of Randomised Methods for Matrix Computations**  
-  **T. Park**.  
+- **On the Accuracy and Robustness of Randomised Methods for Matrix Computations**
   *DPhil thesis, University of Oxford, 2025.*  
   [Oxford Research Archive](https://ora.ox.ac.uk/objects/uuid:2e46d8e9-a64c-4a16-9843-28901ed525ac)
 

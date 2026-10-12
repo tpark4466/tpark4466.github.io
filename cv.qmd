@@ -57,6 +57,7 @@ Reviewer for:
 
 - SIAM Journal on Matrix Analysis and Applications
 - SIAM Journal on Scientific Computing
+- SIAM Journal on Imaging Sciences
 - Linear Algebra and its Applications
 - Numerical Linear Algebra with Applications
 - Journal of Scientific Computing
