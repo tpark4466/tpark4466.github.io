@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 ## Employment
 
-**Postdoctoral Researcher (2025–present)**  
+**Postdoctoral Researcher (Jul 2025 – present)**  
 École Polytechnique Fédérale de Lausanne (EPFL), Switzerland  
 High Performance Numerical Algorithms and Simulations Group  
 Prof. Laura Grigori
@@ -14,12 +14,12 @@ Prof. Laura Grigori
 
 ## Education
 
-**DPhil in Mathematics (2021–2025)**  
+**DPhil in Mathematics (Oct 2021 – Jun 2025)**  
 University of Oxford, UK (Numerical Analysis Group)  
 **Thesis:** [On the Accuracy and Robustness of Randomised Methods for Matrix Computations](https://ora.ox.ac.uk/objects/uuid:2e46d8e9-a64c-4a16-9843-28901ed525ac)  
 **Supervisor:** Prof. Yuji Nakatsukasa
 
-**MSc in Mathematical Sciences (2020–2021)**  
+**MSc in Mathematical Sciences (Oct 2020 – Jun 2021)**  
 University of Oxford, UK  
 Distinction
 
